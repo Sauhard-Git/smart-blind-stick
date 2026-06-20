@@ -66,8 +66,9 @@ The Smart Blind Stick enhances mobility and safety for visually impaired users b
 
 ## 📷 Project Preview
 
-<img width="1040" height="515" alt="blind-stick" src="https://github.com/user-attachments/assets/c26f5fcf-30bf-4a2a-a378-89a8df1ad2c7" />
+## Project Preview
 
+![Smart Blind Stick](images/blind-stick.jpeg)
 
 ---
 
