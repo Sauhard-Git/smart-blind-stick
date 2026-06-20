@@ -68,7 +68,7 @@ The Smart Blind Stick enhances mobility and safety for visually impaired users b
 
 ## Project Preview
 
-![Smart Blind Stick](images/blind-stick.jpeg)
+![Smart Blind Stick](blind-stick.jpeg)
 
 ---
 
